@@ -8,7 +8,6 @@
     <title>Portifólio de jefferson</title>
 </head>
 <body>
-    <img src="cachorro.jpeg" alt="">
     <p>Eu sou jefferson!</p>
     <H1>Sou um desenhista.</H1>
     <P>Sou um alonu,e estou apredendo programação no alura,utilizando o github,e entendendo como funciona a área de computação!</P>
